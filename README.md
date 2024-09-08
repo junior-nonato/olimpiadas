@@ -23,7 +23,3 @@ Quer ajudar? Abra um pull request para:
 * Adicionar novos atletas
 
 **#olimpiadas #atletas #brasil #programação #webdev #html #css #javascript**
-
-[Imagem de um atleta comemorando a vitória]
-
-### Estrutura do projeto
